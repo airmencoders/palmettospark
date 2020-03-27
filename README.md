@@ -8,3 +8,12 @@ JB Charleston's Spark Cell.
 ### [CPI](https://static.e-publishing.af.mil/production/1/saf_mg/publication/afi38-401/afi38-401.pdf)
 ### [AF Software Efforts](https://software.af.mil)
 
+
+
+## Lab Resourses:
+* 3D Printers
+* CNC Machine
+* Rasberry PIs
+* Computers to Code
+* Design thinking spaces
+
