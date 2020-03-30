@@ -6,12 +6,12 @@ JB Charleston's Spark Cell.
 ### [Submit an Idea (No CAC)](https://forms.gle/e38rXYHrn9fWLFHs5)
 
 ## COVID-19 Resources:
-* [Telework & Network Updates (CAC Requried)[https://www.my.af.mil/gcss-af/USAF/ep/globalTab.do?channelPageId=sE66807CD6D089CAC016D1CE8DE3E003C]
+* [Telework & Network Updates (CAC Requried)](https://www.my.af.mil/gcss-af/USAF/ep/globalTab.do?channelPageId=sE66807CD6D089CAC016D1CE8DE3E003C)
 
 ## Useful Links:
-### [AFWERX](https://afwerx.af.mil)
-### [CPI](https://static.e-publishing.af.mil/production/1/saf_mg/publication/afi38-401/afi38-401.pdf)
-### [AF Software Efforts](https://software.af.mil)
+* [AFWERX](https://afwerx.af.mil)
+* [CPI](https://static.e-publishing.af.mil/production/1/saf_mg/publication/afi38-401/afi38-401.pdf)
+* [AF Software Efforts](https://software.af.mil)
 
 
 
