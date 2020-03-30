@@ -2,8 +2,9 @@
 JB Charleston's Spark Cell. 
 
 ![Your base needs you ... to submit your ideas](https://raw.githubusercontent.com/airmencoders/palmettospark/master/3ukqu9.jpg)
-### [Submit an Idea via IdeaScale](https://usaf.ideascalegov.com/a/ideas/recent/campaign-filter/byids/campaigns/143/stage/unspecified)
-### [Submit an Idea (JBC Airmen Only - No CAC)](https://forms.gle/e38rXYHrn9fWLFHs5)
+### [Submit an Idea via IdeaScale (CAC Required)](https://usaf.ideascalegov.com/a/ideas/recent/campaign-filter/byids/campaigns/143/stage/unspecified)
+### [Submit an Idea (No CAC)](https://forms.gle/e38rXYHrn9fWLFHs5)
+
 
 ## Useful Links
 ### [AFWERX](https://afwerx.af.mil)
