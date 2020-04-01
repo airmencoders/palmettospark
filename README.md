@@ -1,7 +1,7 @@
 # Welcome to Palmetto Spark
 JB Charleston's Spark Cell. 
 
-![Your base needs you ... to submit your ideas](https://raw.githubusercontent.com/airmencoders/palmettospark/master/3ukqu9.jpg)
+![Your base needs you ... to submit your ideas](https://github.com/airmencoders/palmettospark/blob/master/3ukqu9.jpg?raw=true)
 ### [Submit an Idea via IdeaScale (CAC Required)](https://usaf.ideascalegov.com/a/ideas/recent/campaign-filter/byids/campaigns/143/stage/unspecified)
 ### [Submit an Idea (No CAC)](https://forms.gle/e38rXYHrn9fWLFHs5)
 
