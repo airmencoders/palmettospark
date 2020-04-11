@@ -3,7 +3,7 @@ JB Charleston's Spark Cell.
 
 ![Your base needs you ... to submit your ideas](https://github.com/airmencoders/palmettospark/blob/master/3ukqu9.jpg?raw=true)
 ### [Submit an Idea via IdeaScale (CAC Required)](https://usaf.ideascalegov.com/a/ideas/recent/campaign-filter/byids/campaigns/143/stage/unspecified)
-### [Submit an Idea (No CAC)](https://forms.gle/e38rXYHrn9fWLFHs5)
+### [Submit an Idea (No CAC)](https://forms.gle/e38rXYHrn9fWLFHs5) 
 
 ## COVID-19 Resources:
 * [Telework & Network Updates (CAC Requried)](https://www.my.af.mil/gcss-af/USAF/ep/globalTab.do?channelPageId=sE66807CD6D089CAC016D1CE8DE3E003C)
