@@ -1,5 +1,5 @@
 # Welcome to Palmetto Spark
-JB Charleston's Spark Cell - Improve & Innovate!  
+JB Charleston's Spark Cell - Improve & Innovate!
 
 > "Give Airmen an inch...and we will return a mile!"
 
