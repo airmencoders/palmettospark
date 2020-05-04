@@ -20,7 +20,7 @@ remote_theme: airmencoders/minimal-mistakes
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Palmetto Spark - Improve & Innovate. Joint Base Charleston's one stop shop for Airmen to improve and innovate. 
-
+subtitle: "Improve & Innovate"
 minimal_mistakes_skin: default
 search: true
 
