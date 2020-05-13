@@ -5,7 +5,7 @@ title: "Our Projects"
 
 
 ### COVID Response
-* Hand Sanitizer
+#### Hand Sanitizer
 
    Supplied hand sanitizer to an Aeromedical Evacuation unit and they were able to deploy it around to world rapidly.  
    
