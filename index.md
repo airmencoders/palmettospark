@@ -11,6 +11,11 @@ feature_row:
     url: "/press/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - title: "Submit Ideas"
+    excerpt: "Submit innovation ideas to receive help and SIF."
+    url: "https://forms.gle/e38rXYHrn9fWLFHs5"
+    btn_label: "Submit Now"
+    btn_class: "btn--inverse"
 ---
   
 <br /><br />
