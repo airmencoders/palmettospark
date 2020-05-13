@@ -5,7 +5,9 @@ title: "Our Projects"
 
 
 ### COVID Response
-* hand sanitizer
+* Hand sanitizer
+* Lab renovation
+* 3D Printer setup
 
 
 
