@@ -5,9 +5,12 @@ title: "Our Projects"
 
 
 ### COVID Response
-* Hand sanitizer
-* Lab renovation
-* 3D Printer setup
+* Hand Sanitizer
+* 3D Printed Face Masks
+* 3D Printed Face Shields
+* CSAF/CMSAF Visit
+* Door "Hookers"
+
 
 
 
