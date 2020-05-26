@@ -1,5 +1,5 @@
 JB Charleston's Spark Cell - Improve & Innovate!
-
+ 
 > "Give Airmen an inch...and we will return a mile!"
 
 ![Your base needs you ... to submit your ideas](https://github.com/airmencoders/palmettospark/blob/master/3ukqu9.jpg?raw=true)
