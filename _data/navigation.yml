@@ -1,14 +1,8 @@
 main:
-  - title: "Welcome"
-    url: "/welcome/"
   - title: "Projects"
     url: "/projects/"
-  - title: "FAQs"
-    url: "/faqs/"
   - title: "Contact"
     url: "/contact/"
-  - title: "Submit an Idea (IdeaScale)"
-    url: https://usaf.ideascalegov.com/a/ideas/recent/campaign-filter/byids/campaigns/143/stage/unspecified
-  - title: "Submit an Idea (No CAC)"
+  - title: "Submit an Idea"
     url: https://forms.gle/e38rXYHrn9fWLFHs5
 
