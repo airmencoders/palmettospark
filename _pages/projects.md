@@ -27,7 +27,7 @@ title: "Our Projects"
   
 #### 3D Printed Plexiglass Holders
 
-   developed to provide sneeze gaurd holders for cubicles in the CE office 
+   Developed to provide sneeze gaurd holders for cubicles in the CE office. 
 
 
 
