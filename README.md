@@ -1,7 +1,7 @@
 JB Charleston's Spark Cell - Improve & Innovate!
  
 > "Give Airmen an inch...and we will return a mile!"
-
+ 
 ![Grand Opening](./assets/images/GrandOpening.png)
 ### [Submit an Idea via IdeaScale (CAC Required)](https://usaf.ideascalegov.com/a/ideas/recent/campaign-filter/byids/campaigns/143/stage/unspecified)
 ### [Submit an Idea (No CAC)](https://forms.gle/e38rXYHrn9fWLFHs5) 
