@@ -25,6 +25,7 @@ title: "Our Projects"
 
   Developed for use in opening doors touchlessly and to limit surface contact in an effort to prevent the spread of COVID-19.  
   
+
 #### 3D Printed Plexi Holders for CES
 
    Developed 3D pintable mounts for holding plexiglass to ensure simoultanious safety and networkability for the CES  offices.

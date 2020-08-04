@@ -19,7 +19,7 @@ feature_row:
 ---
   
 <br /><br />
-![Your base needs you ... to submit your ideas](https://github.com/airmencoders/palmettospark/blob/master/3ukqu9.jpg?raw=true)
+![Grand Opening](./assets/images/GrandOpening.png)
 > "Give Airmen an inch...and we will return a mile!" 
 
 
