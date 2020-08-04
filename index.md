@@ -18,8 +18,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
   
-<br /><br />
-![Grand Opening](./assets/images/GrandOpening.png)
+
 > "Give Airmen an inch...and we will return a mile!" 
 
 
