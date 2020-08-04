@@ -8,7 +8,7 @@ toc: true
 
 ### Public Press
 #### July 2020
-* Virtual tour and grand opening https://www.facebook.com/TeamCharleston/videos/2358557721104551/ 10 July 2020
+* [Virtual tour and grand opening](https://www.facebook.com/TeamCharleston/videos/2358557721104551/) 10 July 2020
 #### May 2020
 * Military.com [The 8 Most Original Military Tech Ideas for the Fight Against COVID-19](https://www.military.com/daily-news/2020/05/10/8-most-original-military-tech-ideas-fight-against-covid-19.html) 10 May 2020
 
