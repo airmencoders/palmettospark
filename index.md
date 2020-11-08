@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
   
-
+![](/assets/images/AMC-CC-CCC-Visit-cropped.jpg)
 > "Give Airmen an inch...and we will return a mile!" 
 
 
