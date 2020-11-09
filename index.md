@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
   
-![](/assets/images/PSLogoSmall.png)
+![](/assets/images/welcome.png){: .align-center}
 > "Give Airmen an inch...and we will return a mile!" 
 
 
