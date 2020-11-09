@@ -20,7 +20,7 @@ feature_row:
   
   <br /><br />
 ![](/assets/images/welcome.png){: .align-center}
-
+ 
 <br /><br />
 {% include feature_row %} 
   
