@@ -34,3 +34,6 @@ Finalists are selected based on specific capabilities as well as concerns of saf
 ## SBIR
 AFWERX, in partnership with Air Force Research Lab (AFRL), and the National Security Innovation Network (NSIN), developed the SBIR Open Topics to increase the efficiency, effectiveness, and transition rate of the SBIR program.
 Through a competitive awards-based program, the Small Business Innovation Research (SBIR) program enables small businesses to explore their technological potential and provides the incentive to profit from its commercialization. Learn more about SBIRs [here](https://www.afwerx.af.mil/sbir.html) or swing by the lab to discuss. Palmetto Spark has several active SBIRs.
+
+## CPI
+Continuous Process Improvement efforts focus on process effectiveness and efficiency across the AF using principles that apply to all work processes. Grounded in proven, industry-standard process-improvement tactics, CPI aims to significantly increase Air Force combat capabilities and replicate across the DoD where possible. Learn more [here](https://static.e-publishing.af.mil/production/1/saf_mg/publication/afi38-401/afi38-401.pdf).
