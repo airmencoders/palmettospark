@@ -1,15 +1,15 @@
 ---
 layout: splash
 feature_row:
+  - title: "Resources"
+    excerpt: "Learn more about the resources available to you."
+    url: "/empowering-you/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - title: "Projects"
     excerpt: "Learn more about our projects."
     url: "/projects/"
     btn_label: "Go to Projects"
-    btn_class: "btn--inverse"
-  - title: "Press"
-    excerpt: "Read more about Palmetto Spark in the news."
-    url: "/press/"
-    btn_label: "Read More"
     btn_class: "btn--inverse"
   - title: "Join the Team"
     excerpt: "Palmetto Spark is hiring Airmen, apply today!"
