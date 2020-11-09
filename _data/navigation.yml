@@ -1,8 +1,8 @@
 main:
-  - title: "Projects"
-    url: "/projects/"
   - title: "Empowering You"
     url: "/empowering-you/"
+  - title: "Projects"
+    url: "/projects/"
   - title: "Join the Team"
     url: "/apply"
   - title: "Contact"
