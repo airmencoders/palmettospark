@@ -18,9 +18,8 @@ feature_row:
     btn_class: "btn--inverse"
 ---
   
+  <br /><br />
 ![](/assets/images/welcome.png){: .align-center}
-> "Give Airmen an inch...and we will return a mile!" 
-
 
 <br /><br />
 {% include feature_row %} 
