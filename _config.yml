@@ -68,6 +68,9 @@ author:
 
 footer:
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/palmettospark"
 
 
 defaults:
