@@ -1,10 +1,10 @@
 main:
   - title: "Projects"
     url: "/projects/"
+  - title: "Empowering You"
+    url: "/empowering-you/"
+  - title: "Join the Team"
+    url: "/apply"
   - title: "Contact"
     url: "/contact/"
-  - title: "Submit an Idea"
-    url: https://forms.gle/e38rXYHrn9fWLFHs5
-  - title: "Press"
-    url: "/press/"
     
