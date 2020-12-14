@@ -4,7 +4,7 @@ main:
   - title: "Projects"
     url: "/projects/"
   - title: "Join the Team"
-    url: "/apply"
+    url: "/join"
   - title: "Contact"
     url: "/contact/"
     
