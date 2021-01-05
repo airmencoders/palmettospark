@@ -9,6 +9,10 @@ Led the first operational deployment of the new flight scheduling system Puckboa
 #### Mobile Training Logging
 Designing and deploying the first ever EFB app that allows aircrew to fill out their post mission paperwork from anywhere in the world. This project saves 12 Airmen from manually calculating hours between two times, doing basic math, and most importantly from transcribing handwritten data into the system of record.
 
+#### Airmen Coders
+Founded the Airmen Coders program to empower any Airmen to code for mission success. Learn more and join the community at [AirmenCoders.us](https://airmencoders.us). 
+
+
 
 ### COVID Response
 #### Hand Sanitizer
