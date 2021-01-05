@@ -7,15 +7,15 @@ title: "Our Projects"
 ### COVID Response
 #### Hand Sanitizer
 
-   Supplied hand sanitizer to an Aeromedical Evacuation unit and they were able to deploy it around to world rapidly.   
+   Supplied hand sanitizer to an Aeromedical Evacuation unit and they were able to deploy it around the world rapidly.   
    
 #### 3D Printed Face Masks
 
-   In developement to provide to CE Structures for both COVID-19 and occupatioinal safety advantages.  
+   In development to provide to CE Structures for both COVID-19 and occupational safety advantages. 
    
 #### 3D Printed Face Shields
 
-   In developement to provide to medical staff to extend the average life of N95 masks and ensure COVID-19 safety.  
+   Completed. Provided the dental clinic with extra face shields during the initial COVID-19 surge.  
    
 #### CSAF/CMSAF Visit
 
@@ -23,12 +23,12 @@ title: "Our Projects"
    
 #### 3D Printed Door Openers
 
-  Developed for use in opening doors touchlessly and to limit surface contact in an effort to prevent the spread of COVID-19.  
+  Developed for use in opening doors without touching the handles to prevent the spread of COVID-19.  
   
 
 #### 3D Printed Plexi Holders for CES
 
-   Developed 3D pintable mounts for holding plexiglass to ensure simoultanious safety and networkability for the CES  offices.
+   Developed 3D printable mounts for holding plexiglass to ensure simultaneous safety and face to face interaction for the CES offices.
 
 
 
