@@ -2,6 +2,12 @@
 permalink: /projects/
 title: "Our Projects"
 ---
+### Software
+#### Puckboard
+Led the first operational deployment of the new flight scheduling system Puckboard. Lead continuous development efforts with Tron and are working to transition to a program of record. Learn more about Puckboard (here)[https://trongov.us/portfolio/puckboard/].
+
+#### Mobile Training Logging
+Designing and deploying the first ever EFB app that allows aircrew to fill out their post mission paperwork from anywhere in the world. This project saves 12 Airmen from manually calculating hours between two times, doing basic math, and most importantly from transcribing handwritten data into the system of record.
 
 
 ### COVID Response
