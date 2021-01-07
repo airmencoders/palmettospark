@@ -18,6 +18,9 @@ Partnered to transform Airmen Coders & Tron from Air Force specific to DoD wide.
 #### Mattermost
 Palmetto Spark worked with Platform One to roll out the chat system Mattermost and manned the initial support help desk. Now in use by 50 wings/equivalents around the DoD. Aircrew around the world are now using it to securely pass mission critical information. A trial has begun with TACC. Many AOCs/Career fields have used it to enhance teleworking capabilities. This effort has taken on a life of its own and will be presented as a finalist for the AMC Phoenix Spark Tank competition by HQ AMC/A6 and the Digital Aircrew Initiative. 
 
+#### MQF Study App
+MQF Study EFB App: Built an iPad app for our EFBs that allows Aircrew members to study for their master question file tests. Since expanded from C-17s to KC-135, C-130H, C-21, KC-10, KC-46, AE, C-5M, and the C-130J.
+
 
 
 ### COVID Response
