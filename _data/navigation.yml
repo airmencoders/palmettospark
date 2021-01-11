@@ -3,8 +3,8 @@ main:
     url: "/empowering-you/"
   - title: "Projects"
     url: "/projects/"
-  - title: "Join the Team"
-    url: "/join"
+  - title: "Pitch Days"
+    url: "/pitch"
   - title: "Contact"
     url: "/contact/"
     
