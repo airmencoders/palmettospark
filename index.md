@@ -40,7 +40,6 @@ feature_row:
  
 
 {% include paginator.html %}
-### [Submit an Idea via IdeaScale (CAC Required)](https://usaf.ideascalegov.com/a/ideas/recent/campaign-filter/byids/campaigns/143/stage/unspecified)
 ### [Submit an Idea (No CAC)](https://forms.gle/e38rXYHrn9fWLFHs5) 
 
 ## COVID-19 Resources:
