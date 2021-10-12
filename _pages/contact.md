@@ -8,6 +8,6 @@ Visit us at the 100 W. Hill Blvd on JB Charleston
 
 Phone: 854-222-3898
 
-Email: palmettospark@palmettospark.org
+Email: palmetto.spark@palmettospark.org
 
 
