@@ -1,7 +1,8 @@
 ---
 permalink: /pitch/
 title: "Pitch Ideas to JB Charleston Leadership"
----
+
+
 layout: splash
 feature_row:
   - title: "Pitch Day"
