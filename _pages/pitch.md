@@ -12,7 +12,7 @@ Air Force Cheif of Staff General Brown stated we need both evolutionary and revo
 4. Project Presentation
 5. Contracting and Execution
 
-We invite you to participate in FY'22's Pitch Days to accelerate change here at Joint Base Charleston. Use the form below to subit your ideas. Someone from the Innovation Team at Palmetto Spark will reach out to you with additional information regarding Pitch Day Deadlines and Submission Requirements. 
+We invite you to participate in FY'22s Pitch Days to accelerate change here at Joint Base Charleston. Use the form below to subit your ideas. Someone from the Innovation Team at Palmetto Spark will reach out to you with additional information regarding Pitch Day Deadlines and Submission Requirements. 
 
 ### Pitch Day 1
 17 Nov 2021 - 1300
