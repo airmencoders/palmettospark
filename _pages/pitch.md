@@ -5,6 +5,8 @@ title: "Pitch Ideas to JB Charleston Leadership"
 
 layout: splash
 feature_row:
+  - title: "Submit Idea Here"
+    excerpt: "Submit your ideas to accelerate change!"
     url: "https://forms.gle/e38rXYHrn9fWLFHs5"
     btn_label: "Submit Now"
     btn_class: "btn--inverse"
