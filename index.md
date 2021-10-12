@@ -1,4 +1,3 @@
-#ACELLERATE CHANGE
 ---
 layout: splash
 feature_row:
