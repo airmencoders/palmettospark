@@ -19,6 +19,6 @@ feature_row:
 ---
   
   <br /><br />
-![](/assets/images/IMG_5022.jpeg){: .align-center}
+![](/assets/images/Lab%20Photo.jpeg){: .align-center}
 <br /><br />
 {% include feature_row %} 
