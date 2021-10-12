@@ -11,10 +11,10 @@ feature_row:
     url: "/projects/"
     btn_label: "Go to Projects"
     btn_class: "btn--inverse"
-  - title: "Join the Team"
-    excerpt: "Palmetto Spark is hiring Airmen, apply today!"
-    url: "/apply"
-    btn_label: "Apply Now"
+  - title: "Pitch Day"
+    excerpt: "Submit your ideas to accelerate change!"
+    url: "https://forms.gle/e38rXYHrn9fWLFHs5"
+    btn_label: "Submit Now"
     btn_class: "btn--inverse"
 ---
   
