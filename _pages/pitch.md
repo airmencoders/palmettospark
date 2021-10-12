@@ -1,4 +1,6 @@
 ---
+permalink: /pitch/
+------
 layout: splash
 feature_row:
   - title: "Submit Your Idea Here"
