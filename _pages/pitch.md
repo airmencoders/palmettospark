@@ -11,4 +11,6 @@ The Palmetto Spark team is gathering submissions for our 2022 SIF Pitch Days!
 ### Pitch Day 2
 26 Jan 2022 - 1300
 
-https://forms.gle/e38rXYHrn9fWLFHs5
+url: "https://forms.gle/e38rXYHrn9fWLFHs5"
+    btn_label: "Submit Now"
+    btn_class: "btn--inverse"
