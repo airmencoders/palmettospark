@@ -1,18 +1,3 @@
-<button @click="parallax *= -1;$refs.myVueperSlides.refreshParallax()">
-  reverse parallax effect
-</button>
-<button @click="parallaxFixedContent = !parallaxFixedContent">
-  Add a fix title
-</button>
-
-<vueper-slides ref="myVueperSlides" :parallax="parallax" :parallax-fixed-content="parallaxFixedContent">
-  <vueper-slide
-    v-for="(slide, i) in slides" :key="i"
-    :image="slide.image"
-    :title="parallaxFixedContent ? slide.title : ''"
-    :content="parallaxFixedContent ? slide.content : ''" />
-</vueper-slides>
-
 ---
 layout: splash
 feature_row:
