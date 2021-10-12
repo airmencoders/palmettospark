@@ -10,7 +10,7 @@ feature_row:
 ## Pitch Ideas to JB Charleston Leadership
 Air Force Cheif of Staff General Brown stated we need both evolutionary and revolutionary change at all levels. The Palmetto Spark team is hosting two Pitch Days to connect your ideas to funding, resources, guidance, or policy changes. Now is the time to share your ideas on how we can improve the way you, and the Air Force works. 
 
-## The Pitch Process
+# The Pitch Process
 1. Submit Your Idea
 2. Define Project Requirements
 3. Conduct Market Research
