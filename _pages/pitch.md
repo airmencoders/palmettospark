@@ -1,6 +1,6 @@
 ---
 permalink: /pitch/
-title: "Pitch Ideas to base leadership"
+title: "Pitch Ideas to Joint Base Charleston Leadership"
 ---
 
 The Palmetto Spark team is gathering submissions for our 2022 SIF Pitch Days! 
