@@ -19,7 +19,7 @@ feature_row:
 ---
   
   <br /><br />
-![](/assets/images/welcome.png){: .align-center}
+![](/assets/images/IMG_5022.jpeg){: .align-center}
  
 <br /><br />
 {% include feature_row %} 
