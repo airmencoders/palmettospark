@@ -4,7 +4,7 @@ layout: splash
 feature_row:
   - title: "Submit Your Idea Here"
     excerpt: "Submit your ideas to accelerate change!"
-    url: "https://forms.gle/e38rXYHrn9fWLFHs5"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLScTpZZ6qn7rbXmILXcupyfSLjdZhVhrDRyPXxetSgDQgqMeGw/viewform?usp=sf_link"
     btn_label: "Submit Now"
     btn_class: "btn--inverse"
 ---
