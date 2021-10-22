@@ -8,7 +8,7 @@ feature_row:
     btn_class: "btn--inverse"
   - title: "Pitch Day"
     excerpt: "Submit your ideas to accelerate change!"
-    url: "https://forms.gle/e38rXYHrn9fWLFHs5"
+    url: "/pitch/"
     btn_label: "Submit Now"
     btn_class: "btn--inverse"
   - title: "Projects"
