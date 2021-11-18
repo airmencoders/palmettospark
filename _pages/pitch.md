@@ -21,9 +21,9 @@ Air Force Cheif of Staff General Brown stated we need both evolutionary and revo
 We invite you to participate in FY'22 Pitch Days to accelerate change here at Joint Base Charleston. Use the form below to submit your ideas. Someone from the Innovation Team at Palmetto Spark will reach out to you with additional information regarding Pitch Day Deadlines and Submission Requirements. 
 
 ### Pitch Day 1
-17 Nov 2021 - 1300
+14 Dec 2021 - 1300
 
 ### Pitch Day 2
-26 Jan 2022 - 1300
+Coming Soon in 2022!
 
 {% include feature_row %} 
