@@ -24,6 +24,6 @@ We invite you to participate in FY'22 Pitch Days to accelerate change here at Jo
 14 Dec 2021 - 10:30
 
 ### Pitch Day 2
-Coming Soon in 2022!
+25 May 2022 - 13:00
 
 {% include feature_row %} 
